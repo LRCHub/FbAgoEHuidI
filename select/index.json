@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "肌色 / 鏡音リン",
+  "base_artist": "背面8回宙返り",
+  "createdAt": "2026-03-01T09:49:15.365252Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "肌色 (feat. 鏡音リン)",
+      "artist": "背面8回宙返り",
+      "has_synced": false,
+      "path": "select/pl_01_肌色_(feat._鏡音リン)_背面8回宙返り.txt"
+    }
+  ]
+}
